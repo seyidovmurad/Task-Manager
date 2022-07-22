@@ -1,0 +1,16 @@
+C:\Users\01mur\source\repos\Task Manager\Task Manager\bin\Debug\Task Manager.exe.config
+C:\Users\01mur\source\repos\Task Manager\Task Manager\bin\Debug\Task Manager.exe
+C:\Users\01mur\source\repos\Task Manager\Task Manager\bin\Debug\Task Manager.pdb
+C:\Users\01mur\source\repos\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.AssemblyReference.cache
+C:\Users\01mur\source\repos\Task Manager\Task Manager\obj\Debug\MainWindow.g.cs
+C:\Users\01mur\source\repos\Task Manager\Task Manager\obj\Debug\App.g.cs
+C:\Users\01mur\source\repos\Task Manager\Task Manager\obj\Debug\Task Manager_MarkupCompile.cache
+C:\Users\01mur\source\repos\Task Manager\Task Manager\obj\Debug\Task Manager_MarkupCompile.lref
+C:\Users\01mur\source\repos\Task Manager\Task Manager\obj\Debug\MainWindow.baml
+C:\Users\01mur\source\repos\Task Manager\Task Manager\obj\Debug\Task Manager.g.resources
+C:\Users\01mur\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.Properties.Resources.resources
+C:\Users\01mur\source\repos\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.GenerateResource.cache
+C:\Users\01mur\source\repos\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\01mur\source\repos\Task Manager\Task Manager\obj\Debug\Task Manager.exe
+C:\Users\01mur\source\repos\Task Manager\Task Manager\obj\Debug\Task Manager.pdb
+C:\Users\01mur\source\repos\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.Fody.CopyLocal.cache
